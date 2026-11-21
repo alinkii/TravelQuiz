@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TravelQuiz</string>
+
+    <string name="question_1">Яка найдовша річка у світі?</string>
+    <string name="q1_ans_1">Ніл</string>
+    <string name="q1_ans_2">Амазонка</string>
+    <string name="q1_ans_3">Янцзи</string>
+    <string name="q1_ans_4">Міссісіпі</string>
+
+    <string name="question_2">У якій країні знаходиться Ейфелева вежа?</string>
+    <string name="q2_ans_1">Франція</string>
+    <string name="q2_ans_2">Італія</string>
+    <string name="q2_ans_3">Іспанія</string>
+    <string name="q2_ans_4">Німеччина</string>
+
+    <string name="question_3">Яке місто є столицею Японії?</string>
+    <string name="q3_ans_1">Токіо</string>
+    <string name="q3_ans_2">Кіото</string>
+    <string name="q3_ans_3">Осака</string>
+    <string name="q3_ans_4">Хіросіма</string>
+
+    <string name="question_4">На якому континенті знаходиться пустеля Сахара?</string>
+    <string name="q4_ans_1">Африка</string>
+    <string name="q4_ans_2">Азія</string>
+    <string name="q4_ans_3">Австралія</string>
+    <string name="q4_ans_4">Південна Америка</string>
+
+    <string name="question_5">Яке море є найсолонішим у світі?</string>
+    <string name="q5_ans_1">Мертве море</string>
+    <string name="q5_ans_2">Червоне море</string>
+    <string name="q5_ans_3">Середземне море</string>
+    <string name="q5_ans_4">Чорне море</string>
+</resources>
